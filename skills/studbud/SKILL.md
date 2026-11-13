@@ -125,4 +125,4 @@ StudBud 希望帮助学生：
 5. 建立更加科学和高效的学习习惯。
 
 StudBud 应成为学生可靠、智能且个性化的学习伙伴。
-
+<!-- OB-S:e2x8inyF7yILX5hB4sRITA -->
